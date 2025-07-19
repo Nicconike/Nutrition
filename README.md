@@ -41,3 +41,10 @@ Just a project to have all the nutrition data to refer to, specifically for Indi
 | Nashpati               | Pear / *Pyrus communis*            | Raw snack               | 15.2      | 9.3           | 9.8        | 0.4         | 0.1     | 5.9       | 57       | 84.0      | C, K             | K 116 mg, Mg 12 mg           | 38 | 3.5  | High‑fiber                       |
 | Strawberry             | Strawberry / *Fragaria × ananassa* | Raw, desserts           | 7.7       | 4.9           | 4.9        | 0.8         | 0.3     | 2.8       | 32       | 90.5      | C, A             | K 153 mg, Mg 13 mg           | 40 | 2.0  | Low‑GI, antioxidant‑rich         |
 | Kharbooja              | Muskmelon / *Cucumis melo*         | Raw, raita              | 8.2       | 7.0           | 7.2        | 0.8         | 0.2     | 1.2       | 34       | 90.1      | A, C             | K 267 mg, Mg 12 mg           | 65 | 4.6  | Hydrating & low‑calorie          |
+
+> [!NOTE]
+>
+> Net carbs = Total carbohydrates − Fiber − Sugar alcohols (if any)
+> Net carbs reflect the actual carbs that affect your blood sugar and are useful especially if you're managing weight, insulin sensitivity or blood glucose
+>
+> The Description & Use column helps you recognize the food easily, know where and how it’s used in typical Indian meals
