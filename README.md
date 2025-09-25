@@ -44,7 +44,10 @@ Just a project to have all the nutrition data to refer to, specifically for Indi
 
 > [!NOTE]
 >
-> Net carbs = Total carbohydrates − Fiber − Sugar alcohols (if any)
-> Net carbs reflect the actual carbs that affect your blood sugar and are useful especially if you're managing weight, insulin sensitivity or blood glucose
+> - **Net carbs** = Total carbohydrates − Fiber − Sugar alcohols (if any)
+> - Net carbs reflect the actual carbs that affect your blood sugar and are useful especially if you're managing weight, insulin sensitivity or blood glucose
 >
-> The Description & Use column helps you recognize the food easily, know where and how it’s used in typical Indian meals
+> - **Description & Use** column helps you recognize the food easily, know where and how it’s used in typical Indian meals
+
+
+### References
